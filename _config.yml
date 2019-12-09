@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD Candidate at The University of Texas at Austin"
   location         : "Austin, TX"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Fgr0hs8AAAAJ&view_op=list_works&sortby=pubdate"
+  #  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Fgr0hs8AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "zhengzhao@utexas.edu"
   uri              :
   bitbucket        :
