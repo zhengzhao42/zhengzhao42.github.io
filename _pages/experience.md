@@ -10,11 +10,11 @@ author_profile: true
 * **University of Texas at Austin, Austin, U.S.**
   * Research Assistant, ECE department, University of Texas at Austin, Sep 2015 - Present
     * Logic Synthesis for Emerging Technologies
-    - Developed C++ optical logic synthesizer and achieved 27X power efficiency by binary decision diagram transformation and polynomial programming approximation based on Gurobi Solver [Zhao+, ASPDAC '18]
-    - Improved utility by 30% by hypergraph partitioning based on hMETIS hypergraph package and min-cost max-flow modeling based on LEMON graph library [Zhao+, DATE '19]
+      * Developed C++ optical logic synthesizer and achieved 27X power efficiency by binary decision diagram transformation and polynomial programming approximation based on Gurobi Solver [Zhao+, ASPDAC '18]
+      * Improved utility by 30% by hypergraph partitioning based on hMETIS hypergraph package and min-cost max-flow modeling based on LEMON graph library [Zhao+, DATE '19]
     * Hardware-software Co-design of Optical Neural Network
-    - Designed and implemented slimmed optical neuromorphic computing architecture based on TensorFlow
-    - Reduced 40% utility and enhanced robustness [Zhao+, ASPDAC '19; Arm Invited Talk '19]
+      * Designed and implemented slimmed optical neuromorphic computing architecture based on TensorFlow
+      * Reduced 40% utility and enhanced robustness [Zhao+, ASPDAC '19; Arm Invited Talk '19]
 
 * **Shanghai Jiao Tong Univeristy**, Shanghai, China
   * Research Assistant, ECE department, Shanghai Jiao Tong University, Sep 2012 - May 2015
@@ -31,12 +31,5 @@ author_profile: true
     * Studied C++ writing style for highlevel synthesis QoR
     * Implemented ALU units using C++ template metaprogramming
     * Tested and debugged commercial HLS software, verified on ALU and commercial benchmarks
-
----
-layout: archive
-title: "Teaching Experience"
-permalink: /experience/
-author_profile: true
----
 
 
