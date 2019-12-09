@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 * **Cadence Design Systems, Inc.**, Austin TX. U.S.
   * Software Intern: C++ buffer insertion engine runtime and result improvement, May '19 - Aug '19
-    * Improved 40%-60% runtime on commercial benchmarks with speed-up techniques including library caching \& pruning, memory pool, data structure and program flow refactoring
+    * Improved 40%-60% runtime on commercial benchmarks with speed-up techniques including library caching & pruning, memory pool, data structure and program flow refactoring
     * Developed Python quality-of-result (QoR) analyzer for algorithmic guidance
 
 * **Nvidia Corporation**, Austin TX. U.S.
