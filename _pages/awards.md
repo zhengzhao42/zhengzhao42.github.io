@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Awards"
+permalink: /awards/
+author_profile: true
+---
+
 * Cadence Women in Technology Scholarship, Cadence Design Systems, Inc., 2019
 * UT Austin Graduate Student Fellowship, University of Texas at Austin, 2015-2019
 * Best Paper Award}, Hardware Oriented Security and Trust (HOST), 2017
