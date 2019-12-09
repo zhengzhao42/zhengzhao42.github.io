@@ -10,13 +10,14 @@ author_profile: true
   * Software Intern: C++ buffer insertion engine runtime and result improvement, May 2019 - Aug 2019
     * Improved 40%-60% runtime on commercial benchmarks with speed-up techniques including library caching & pruning, memory pool, data structure and program flow refactoring
     * Developed Python quality-of-result (QoR) analyzer for algorithmic guidance
+<br/><br/>
 
 * **Nvidia Corporation**, Austin TX. U.S.
   * Research Intern: highlevel synthesis (HLS) for design space exploration, May 2016 - Aug 2016
     * Studied C++ writing style for highlevel synthesis QoR
     * Implemented ALU units using C++ template metaprogramming
     * Tested and debugged commercial HLS software, verified on ALU and commercial benchmarks
-
+<br/><br/>
 
 * **University of Texas at Austin, Austin, U.S.**
   * Research Assistant: EDA and ML for Photonic Integrated Circuits, Sep 2015 - Present
@@ -27,6 +28,7 @@ author_profile: true
   * Teaching Assistant, Sep 2015 - May 2016
     * EE306: Introduction to Computing Systems. Prof. Yale Patt
     * EE319: Introduction to Embedded Systems. Prof. Ramesh Yerraballi
+<br/><br/>
 
 * **Shanghai Jiao Tong Univeristy**, Shanghai, China
   * Research Assistant, Sep 2012 - May 2015
