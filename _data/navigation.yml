@@ -11,8 +11,8 @@ main:
     url: /awards/
 
   - title: "CV"
-    url: /cv/
+    url: https://zhengzhao42.github.io/files/zhengzhao-resume.pdf
 
   - title: "UTDA"
-    url: /utda/
+    url: http://www.cerc.utexas.edu/utda/
 
